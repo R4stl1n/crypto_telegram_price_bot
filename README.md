@@ -1,7 +1,7 @@
 # crypto_telegram_price_bot
 A really terrible price checking bot.
 
-##The name says it all
+## The name says it all
 Really this bot is for anyone who needs to check crypto prices within their telegram channel for any reason.
 
 Current Supported Commands:
