@@ -1,0 +1,5 @@
+bittrex
+bitfinex
+requests
+gdax
+python-telegram-bot
